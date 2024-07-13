@@ -231,7 +231,6 @@ img { /*7*/
     padding-bottom: 15px;
     display: flex;
     margin-right: calc(50% - 50vw);
-    padding-right: calc(50vw - 50%);
     flex-direction: column;
     align-items: center;
 }
